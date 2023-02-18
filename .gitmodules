@@ -1,0 +1,3 @@
+[submodule "BraniacLMS"]
+	path = BraniacLMS
+	url = git@github.com:T1monation/BraniacLMS.git
